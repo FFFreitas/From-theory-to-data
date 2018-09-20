@@ -19,8 +19,8 @@ M$Information = {
   Version      -> "1.6",
   Date         -> "1. 07. 2014",
   Institutions -> {"UFPB"}.
-  Emails       -> {"fp4303@gmail.com"},
-  URLs         -> "http://feynrules.phys.ucl.ac.be/view/Main/StandardModel"
+  Emails       -> {"aaa"},
+  URLs         -> "based on http://feynrules.phys.ucl.ac.be/view/Main/StandardModel"
 };
 
 FeynmanGauge = True;
